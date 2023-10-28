@@ -12,4 +12,25 @@ Aplikasi ini memberikan fitur lengkap yang mencakup berbagai aspek terkait kelah
 Aplikasi ini juga menyediakan modul untuk mengelola data staf yang bertanggung jawab dalam pengelolaan data kelahiran bayi. Informasi staf mencakup id staff, nama staff, jabatan, dan nomor kontak dari staff.
 
 
-Keamanan merupakan hal penting dalam aplikasi ini. Oleh karena itu, aplikasi dilengkapi dengan sistem keamanan yang membatasi akses data hanya kepada pengguna yang diizinkan. Hal ini akan melindungi privasi dan integritas data kelahiran bayi. Proyek ini menggunakan bahasa pemrograman Java dan basis data MySQL atau PostgreSQL untuk menyimpan data.
+Keamanan merupakan hal penting dalam aplikasi ini. Oleh karena itu, aplikasi dilengkapi dengan sistem keamanan yang membatasi akses data hanya kepada pengguna yang diizinkan. Hal ini akan melindungi privasi dan integritas data kelahiran bayi. Proyek ini menggunakan bahasa pemrograman Java dan basis data MySQL untuk menyimpan data.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+FLOWCHART :
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ERD :
+
+![logicalkel3](https://github.com/FinaAnriani/KELOMPOK_3_PBO_DBD/assets/127528115/169352af-d9db-4cf2-b8c5-e143252b3acd)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+KELAS : 
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SCREENSHOOT CODING DAN PENJELASAN:
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+SCREENSHOOT OUTPPUT :
+
