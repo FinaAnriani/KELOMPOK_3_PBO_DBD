@@ -1,8 +1,6 @@
 # KELOMPOK_3_PBO_DBD
 
-NAMA PROJECT : 
-
-"MANAJEMEN DATA KELAHIRAN BAYI"
+NAMA PROJECT : "MANAJEMEN DATA KELAHIRAN BAYI"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 DESKRIPSI PROJECT : 
