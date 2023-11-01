@@ -25,6 +25,7 @@ ERD :
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 KELAS : 
+Karena pada studi kasus yang kami buat tidak menerapkan inheritance, maka dibawah ini kammi serakan kelas kelas yang ada tanpa hierarkinya.
 
 ![KELASKEL3 drawio](https://github.com/FinaAnriani/KELOMPOK_3_PBO_DBD/assets/127528115/5da2f550-4458-47f9-852b-a61859c296b0)
 
