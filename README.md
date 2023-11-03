@@ -52,7 +52,7 @@ Pada aplikasi Data Bayi, terdapat dua package, yaitu datakelahirann dan Staff. P
 
 Maksud dari pemisahan package ini adalah untuk memisahkan kode yang berkaitan dengan data kelahiran dan staf. Hal ini bertujuan untuk meningkatkan keterbacaan dan kejelasan kode.
 
--- Package datakelahirann
+** Package datakelahirann
 
 Package ini berisi kelas-kelas yang berkaitan dengan data kelahiran, seperti:
 
@@ -63,7 +63,7 @@ Package ini berisi kelas-kelas yang berkaitan dengan data kelahiran, seperti:
 * **Login**
     Kelas ini digunakan untuk **memvalidasi login staf**.
 
--- package Staff
+** package Staff
 
 Package ini berisi kelas-kelas yang berkaitan dengan staf, seperti:
 
