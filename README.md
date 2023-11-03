@@ -48,6 +48,29 @@ PACKAGE
 
 <img width="221" alt="Screenshot 2023-11-03 211514" src="https://github.com/FinaAnriani/KELOMPOK_3_PBO_DBD/assets/121868323/ca95fd64-abcc-4d39-a11b-da4062576b48">
 
+Pada aplikasi Data Bayi, terdapat dua package, yaitu datakelahirann dan Staff. Package datakelahirann berisi kelas-kelas yang berkaitan dengan data kelahiran, sedangkan package Staff berisi kelas-kelas yang berkaitan dengan staf.
+
+Maksud dari pemisahan package ini adalah untuk memisahkan kode yang berkaitan dengan data kelahiran dan staf. Hal ini bertujuan untuk meningkatkan keterbacaan dan kejelasan kode.
+
+- Package datakelahirann
+
+Package ini berisi kelas-kelas yang berkaitan dengan data kelahiran, seperti:
+
+* **DataBayi**
+    Kelas ini digunakan untuk **menyimpan data bayi**, seperti ID kelahiran, nama bayi, jenis kelamin, tempat lahir, tanggal lahir, waktu lahir, dan ID staf.
+* **Database**
+    Kelas ini digunakan untuk **menghubungkan aplikasi dengan database**.
+* **Login**
+    Kelas ini digunakan untuk **memvalidasi login staf**.
+
+- package Staff
+
+Package ini berisi kelas-kelas yang berkaitan dengan staf, seperti:
+
+* **Staff**
+    Kelas ini digunakan untuk **menyimpan data staf**, 
+
+
 <h4> PACKAGE DAN IMPORT</h4>
 
 <img width="279" alt="Screenshot 2023-11-03 224643" src="https://github.com/FinaAnriani/KELOMPOK_3_PBO_DBD/assets/121868323/d7af2691-774a-4c56-b6b9-90914280522f">
